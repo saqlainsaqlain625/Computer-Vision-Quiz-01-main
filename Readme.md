@@ -23,7 +23,7 @@ The system generates an `annotated_evaluation.jpg` file to provide visual proof 
 
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/Muntazir-43/Computer-Vision-Quiz-01.git](https://github.com/Muntazir-43/Computer-Vision-Quiz-01.git)
+    git clone [https://github.com/saqlainsaqlain629/Computer-Vision-Quiz-01.git](https://github.com/saqlainsaqlain629/Computer-Vision-Quiz-01.git)
     cd Computer-Vision-Quiz-01
     ```
 
