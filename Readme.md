@@ -18,7 +18,7 @@ The system generates an `annotated_evaluation.jpg` file to provide visual proof 
 
 * **Green Boxes:** Successfully detected standard slips.
 * **Yellow Boxes:** Slips identified and separated via the Recursive Sobel Splitting module.
-
+   
 ## 🛠️ Installation & Usage
 
 1.  **Clone the Repository**:
